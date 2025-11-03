@@ -1,0 +1,11 @@
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\MyFirstAzureApi
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\MyFirstAzureApi.dll
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\MyFirstAzureApi.deps.json
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\MyFirstAzureApi.runtimeconfig.json
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\MyFirstAzureApi.pdb
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
