@@ -33,3 +33,4 @@ C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Debug\net8.0\ref
 C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Debug\net8.0\MyFirstAzureApi.pdb
 C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Debug\net8.0\MyFirstAzureApi.genruntimeconfig.cache
 C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Debug\net8.0\ref\MyFirstAzureApi.dll
+C:\Users\andra\Source\Repos\MyFirstAzureApi\MyFirstAzureApi\obj\Debug\net8.0\MyFirstAzureApi.sourcelink.json
