@@ -35,5 +35,11 @@ namespace MyFirstAzureApi.Controllers
         {
             return Ok("Hola deploy");
         }
+
+        [Http("Name="/hello"")]
+        public IActionResult GetHello()
+        {
+            return Ok("Hello world")
+        }
     }
 }
