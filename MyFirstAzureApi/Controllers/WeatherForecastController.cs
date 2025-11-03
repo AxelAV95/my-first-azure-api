@@ -31,7 +31,7 @@ namespace MyFirstAzureApi.Controllers
         }
 
         [HttpGet(Name= "/testing")]
-        public IActionResult Get()
+        public IActionResult GetTesting()
         {
             return Ok("Hola deploy");
         }
