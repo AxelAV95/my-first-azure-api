@@ -29,5 +29,11 @@ namespace MyFirstAzureApi.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet(Name= "/testing")]
+        public IActionResult Get()
+        {
+            return Ok("Hola deploy");
+        }
     }
 }
