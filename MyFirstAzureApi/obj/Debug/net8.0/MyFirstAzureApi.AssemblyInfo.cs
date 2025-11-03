@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstAzureApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898214a2e1649d1cf1cd060c96256438c55a0ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7d70210042c74af5e818ce5221854e0605fb889")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstAzureApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstAzureApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

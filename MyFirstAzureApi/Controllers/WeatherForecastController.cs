@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace MyFirstAzureApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]")] // <-- Ruta base: /weatherforecast
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -18,6 +18,8 @@ namespace MyFirstAzureApi.Controllers
             _logger = logger;
         }
 
+        // MÉTODO 1: Se queda como está.
+        // Ruta final: GET /weatherforecast
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
@@ -30,13 +32,17 @@ namespace MyFirstAzureApi.Controllers
             .ToArray();
         }
 
-        [HttpGet(Name= "/testing")]
+        // MÉTODO 2: CORREGIDO
+        // Ruta final: GET /weatherforecast/testing
+        [HttpGet("testing")] // <-- ¡LA SOLUCIÓN! Esto se añade a la ruta base.
         public IActionResult GetTesting()
         {
             return Ok("Hola deploy");
         }
 
-        [HttpGet(Name="/hello")]
+        // MÉTODO 3: CORREGIDO
+        // Ruta final: GET /weatherforecast/hello
+        [HttpGet("hello")] // <-- ¡LA SOLUCIÓN! Esto se añade a la ruta base.
         public IActionResult GetHello()
         {
             return Ok("Hello world");

@@ -19,5 +19,25 @@
       }
     ],
     "EndpointName": "GetWeatherForecast"
+  },
+  {
+    "ContainingType": "MyFirstAzureApi.Controllers.WeatherForecastController",
+    "Method": "GetHello",
+    "RelativePath": "WeatherForecast/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyFirstAzureApi.Controllers.WeatherForecastController",
+    "Method": "GetTesting",
+    "RelativePath": "WeatherForecast/testing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
