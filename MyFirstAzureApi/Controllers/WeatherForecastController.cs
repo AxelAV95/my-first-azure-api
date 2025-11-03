@@ -39,7 +39,7 @@ namespace MyFirstAzureApi.Controllers
         [Http("Name="/hello"")]
         public IActionResult GetHello()
         {
-            return Ok("Hello world")
+            return Ok("Hello world");
         }
     }
 }
